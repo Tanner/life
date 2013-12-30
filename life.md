@@ -12,6 +12,7 @@ Tanner's Life
 - 03/08/2010-14/08/2010 Flew across the country with my Uncle Steve
 - 08/09/2010 Cross country flight article in Gwinnett Daily Post
 - 08/2010-12/2013 Attended Georgia Institute of Technology
+- 01/2011-12/2011 Teaching assistant for CS 1331
 - 19/08/2013-12/2013 Worked for the Technique
 - 05/2012-08/2012 Study abroad in Barcelona with the College of Computing
 - 05/2013-08/2013 Internship with Apple

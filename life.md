@@ -16,3 +16,5 @@ Tanner's Life
 - 19/08/2013-12/2013 Worked for the Technique
 - 05/2012-08/2012 Study abroad in Barcelona with the College of Computing
 - 05/2013-08/2013 Internship with Apple
+- 01/2014 Got my first apartment in Sunnyvale, CA
+- 02/10/2014-~ Started work at Apple
